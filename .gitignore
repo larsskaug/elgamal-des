@@ -1,2 +1,5 @@
-*.class
-*.log
+.idea/
+build.sbt
+conf/
+project/*/
+target/*/
